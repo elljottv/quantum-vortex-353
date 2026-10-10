@@ -131,4 +131,4 @@ Use the green button above; if the browser blocks it, confirm the keep action.
 
 ---
 
-*Community page · Updated 2026-10-09 · Shared under the [MIT License](https://opensource.org/licenses/MIT)*
+*Community page · Updated 2026-10-10 · Shared under the [MIT License](https://opensource.org/licenses/MIT)*
